@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stealth-exe
+"There's no place like 2130706433"
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,java,latex,kotlin,c,mysql,bash,html,js,css,md)](https://skillicons.dev)
